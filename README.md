@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maj0rBeingvoli
+- 👋 Hi, I’m @Maj0rBeing
 - 👀 I’m interested in web development, mobile application development and web services. 
 - 🌱 I’m currently learning PHP, MYSQL, Javascript and Java.
 - 💞️ I’m looking to collaborate on web development projects and open source team projects.
